@@ -1,0 +1,8 @@
+category,description,unit,planned_amount,actual_amount,source_or_receipt,owner,checked_on
+network,Transaction fees,SOL,,,,,
+accounts,Account rent,SOL,,,,,
+platform,Creation or migration charges,quote_asset,,,,,
+liquidity,Inventory committed separately from expenses,token_and_quote,,,,,
+hosting,Metadata and website hosting,currency,,,,,
+maintenance,Contributors and monitoring,currency,,,,,
+contingency,Unallocated reserve,currency,,,,,

@@ -1,0 +1,7 @@
+{
+  "name": "Example Community Token",
+  "symbol": "EXMPL",
+  "description": "Synthetic metadata example. Replace with accurate current project information.",
+  "image": "https://example.com/token.png",
+  "external_url": "https://example.com"
+}

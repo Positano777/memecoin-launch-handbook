@@ -1,0 +1,21 @@
+{
+  "stage": "planning",
+  "route": "self-managed",
+  "network": "devnet",
+  "name": "Example Community Token",
+  "symbol": "EXMPL",
+  "supplyTokens": "1000000000",
+  "decimals": 6,
+  "fixedSupply": true,
+  "allocations": [
+    {"label": "Planned liquidity inventory", "bps": 7000},
+    {"label": "Community treasury", "bps": 2000},
+    {"label": "Disclosed team allocation", "bps": 1000}
+  ],
+  "authorities": {"mint": "none", "freeze": "none", "metadata": "multisig"},
+  "metadataUri": "https://example.com/token.json",
+  "imageUri": "https://example.com/token.png",
+  "disclosuresReviewed": false,
+  "rehearsalRecorded": false,
+  "independentReviewRecorded": false
+}

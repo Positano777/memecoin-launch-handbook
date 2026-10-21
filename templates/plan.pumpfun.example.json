@@ -1,0 +1,16 @@
+{
+  "stage": "planning",
+  "route": "pumpfun",
+  "network": "mainnet-beta",
+  "name": "Example Community Token",
+  "symbol": "EXMPL",
+  "supplyTokens": null,
+  "decimals": null,
+  "allocations": [],
+  "platformSettingsReviewed": false,
+  "metadataUri": "https://example.com/token.json",
+  "imageUri": "https://example.com/token.png",
+  "disclosuresReviewed": false,
+  "rehearsalRecorded": false,
+  "independentReviewRecorded": false
+}
